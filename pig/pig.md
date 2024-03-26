@@ -6,7 +6,7 @@ STEP 2: If you choose to roll the dice
             and you go to step 1
         If you choose to not roll your dice
             your current score is added to total score
-STEP 4: If the number is 1, your turn is over
-STEP 5: When one of the player has score higher than other players and higher than set amount, they win.
+STEP 3: If the number is 1, your turn is over
+STEP 4: When one of the players has a score higher than the other players and higher than the set amount, they win.
 
 Enjoy! 🎯

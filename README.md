@@ -1,13 +1,13 @@
 # Python Project Triad
 
-This repo consists of three beginner friendly python mini-mini-projects:
-1. [pig](pig/pig.md)
-2. [madlibs generator](madlibs-generator/madlibs_generator.md)
-3. [math quiz](math-quiz/math_quiz.md)
+This repository contains three beginner-friendly Python mini-projects:
+1. [Pig](pig/pig.md)
+2. [Madlibs Generator](madlibs-generator/madlibs_generator.md)
+3. [Math Quiz](math-quiz/math_quiz.md)
 
 
-A simple project like these helps you apply your learnings without overwhelming you. And you almost always get to learn something new with each project.  
-My favorite was math lib.
+These simple projects help you apply your learning without overwhelming you. You almost always get to learn something new with each project.  
+My favorite was the Math Quiz.
 
 Enjoy! 😁
 
